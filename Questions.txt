@@ -1,0 +1,4 @@
+Is this BullShit?,Yes ,No  ,No  ,No   ,a,null,1,
+Is this BullShit?,No,Yes,No,No,b,null,1,
+Is this BullShit?,No,No,Yes,No,c,null,1,
+Is this BullShit?,No,No,No,Yes,d,null,1,
